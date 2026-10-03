@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "revision": 1,
+  "package_name": "com.liftdock.sortlite",
+  "mode": "test",
+  "app_id": "ca-app-pub-5210982448594117~2091242561",
+  "test_rewarded_unit_id": "ca-app-pub-3940256099942544/5224354917",
+  "production_rewarded_units": {
+    "continue": "ca-app-pub-5210982448594117/7360056127",
+    "double_coin": "ca-app-pub-5210982448594117/4944636612",
+    "extra_slot": "ca-app-pub-5210982448594117/2917239075",
+    "hint": "ca-app-pub-5210982448594117/6173957803",
+    "save_hd": "ca-app-pub-5210982448594117/2454204640"
+  }
+}
