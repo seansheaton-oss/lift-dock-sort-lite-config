@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
-  "revision": 1,
+  "revision": 2,
   "package_name": "com.liftdock.sortlite",
-  "mode": "test",
+  "mode": "production",
   "app_id": "ca-app-pub-5210982448594117~2091242561",
   "test_rewarded_unit_id": "ca-app-pub-3940256099942544/5224354917",
   "production_rewarded_units": {
